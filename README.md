@@ -19,5 +19,9 @@ $('#videoBg').videoArea({video: 'RijAK7ejSvE'});
 ```
 HTML5:
 ```
-$('#videoBg2').videoArea({player:'html5',video: 'http://www.w3schools.com/html/mov_bbb.mp4',objectId:'html5VideoArea'}); 
+$('#videoBg2').videoArea({
+  player:'html5',
+  video: 'http://www.w3schools.com/html/mov_bbb.mp4',
+  objectId:'html5VideoArea'
+  }); 
 ```
