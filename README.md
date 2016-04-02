@@ -5,7 +5,7 @@ This plugin will allow you to add a video background to any element. Currently i
 | Name | Type | Description | Default |
 |------|------|-------------|---------|
 | objectId | String | The id given to the object created to contain the video | 'videoAreaContainer' |
-| player | String | Player type - Options ( youtube | html5 ) | 'youtube' |
+| player | String | Player type - Options ( youtube or html5 ) | 'youtube' |
 | video | String | Video URL or id for the video to play | 'utn7IUCKck' |
 | aspectRatio | String | The ratio of the video you want to watch so we can resize the container properly | '16:9' |
 | failMarkup | String | The Markup to put in the video area on failure | ```'<p>Failed to load video background</p>'``` |
