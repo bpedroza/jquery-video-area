@@ -13,6 +13,12 @@ This plugin will allow you to add a video background to any element. Currently i
 | loop | Bool | Loop the video? | true |
 
 ###Usage
+Include the file and jquery
+```
+<script src="/path/to/jquery/jquery.min.js" type="text/javascript"></script>
+<script type="text/jscript" src="/path/to/video-area.js"></script>
+```
+
 YouTube:
 ```
 $('#videoBg').videoArea({video: 'RijAK7ejSvE'});
